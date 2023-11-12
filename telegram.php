@@ -1,6 +1,6 @@
 <?php
 
-$token = "6956590238:AAEE5goLAJl96-oWt8-8Aj_eKqp2wiyLXKQ";
+$token = "6126924659:AAFHQo8RWQPW-MS3_Fet1FQIitLsc4697QA";
 
 // تحديد الأزرار
 $buttons_list = [
